@@ -13,9 +13,10 @@ A Python Keylogger for Windows
 
 Or
 
-Execute `ExecuteKeylogger.cmd`
-
-
+Execute:
+```
+ExecuteKeylogger.cmd
+```
 ## Installation
 Set up a virtual environment and install the dependencies:
 ```sh
