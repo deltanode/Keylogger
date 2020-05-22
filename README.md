@@ -11,7 +11,8 @@ A Python Keylogger for Windows
 
 4. `python keylogger.py`
 
-or Execute:
+Or
+Execute:
 ```
 ExecuteKeylogger.cmd
 ```
